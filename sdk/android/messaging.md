@@ -10,7 +10,7 @@ Amazon Pinpoint also enables you to gather and visualize your app's [Analytics](
 
 You can then algorithmically tie messaging campaigns to user behavior. For instance, send a discount mail to frequent users, or send a push notification that initiates a data sync for users that have selected a certain category in a feature of your app.
 
-## Set Up Your Backend
+## Set Up Your Backend Test
 
 To set up your app to receive Push Notifications from Amazon Pinpoint, see [Push Notification](./push-notifications).
 
